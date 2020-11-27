@@ -1,0 +1,174 @@
+body {
+  background-attachment: white;
+  font-family: "Nanum Gothic";
+}
+
+
+.item-bubble1 {
+  background-color: #FFC6C6;
+  width: 429px;
+  height: 160px;
+  z-index: 3;
+  left: 431px;
+  top: 0px;
+}
+
+.item-bubble2 {
+  background-color: #FFFF;
+  width: 429px;
+  height: 160px;
+  z-index: 4;
+  left: 235px;
+  top: 480px;
+}
+
+.item-bubble3 {
+  background-color: #FFC6C6;
+  width: 427px;
+  height: 160px;
+  z-index: 5;
+  left: 693px;
+  top: 640px;
+}
+
+.item-bubble4 {
+  background-color: #FFC6C6;
+  width: 894px;
+  height: 320px;
+  z-index: 6;
+  left: 321px;
+top: 960px;
+}
+
+.item-bubble5 {
+  background-color: #FFFF;
+  width: 897px;
+  height: 320px;
+  z-index: 7;
+  left: 159px;
+  top: 1280px;
+
+}
+
+.item-bubble6 {
+  background-color: #FFC6C6;
+  width: 674px;
+  height: 160px;
+  z-index: 8;
+  left: 321px;
+  top: 1600px;
+}
+
+.item-bubble7 {
+  background-color: #FFFF;
+  width: 893px;
+  height: 248px;
+  z-index: 4;
+  left: 161px;
+  top: 1760px;
+}
+
+.grid-container1 {
+  margin: auto;
+  z-index: 1;
+  height: 960px;
+
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr ;
+  grid-template-rows: 0, 0, 0, 0, 0, 0, 0, 0;
+  grid-gap: 0, 0, 0, 0, 0, 0, 0, 0, 0;
+  justify-content: left;
+}
+
+.grid-item1 {
+  margin: auto;
+
+  width: 160px;
+  height: 160px;
+}
+
+.grid-2 {
+  height: 320px;
+
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr;
+  grid-gap: 0, 0, 0, 0, 0, 0, 0;
+  justify-content: right;
+  z-index: 2
+}
+
+
+.grid-item2 {
+
+  width: 320px;
+  height: 335px;
+}
+
+#image1 {
+  position: absolute;
+  width: 64.23px;
+  height: 94px;
+  justify-content: center;
+}
+
+
+#image2 {
+  position: absolute;
+  width: 81px;
+  height: 79.15px;
+
+}
+
+#image3 {
+  position: absolute;
+  width: 141.46px;
+  height: 215.3px;
+
+}
+
+
+#image4 {
+  position: absolute;
+  width: 220.17px;
+  height: 215.15px;
+
+}
+
+#image5 {
+  position: absolute;
+
+
+}
+
+#image6 {
+  position: absolute;
+  width: 141.46px;
+  height: 215.3px;
+
+}
+
+#image7 {
+  position: absolute;
+
+
+}
+
+#image8 {
+  position: absolute;
+  width: 185.57px;
+  height: 215.41px;
+
+}
+
+#image9 {
+  position: absolute;
+
+}
+
+#image10 {
+  position: absolute;
+  width: 220.17px;
+  height: 215.15px;
+  
+}
